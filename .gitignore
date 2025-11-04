@@ -1,0 +1,10 @@
+# Executáveis e arquivos compilados
+*.exe
+*.o
+
+# Arquivos compactados
+*.zip
+*.rar
+
+# Configurações de IDE
+.vscode/
